@@ -1,0 +1,538 @@
+{
+  "allConfig": {
+    "links": [
+      {
+        "number": 1,
+        "F": 0,
+        "W": 20,
+        "G": 0,
+        "O": 0,
+        "P": 4,
+        "R": 0
+      },
+      {
+        "number": 2,
+        "F": 0,
+        "W": 28,
+        "G": 0,
+        "O": 0,
+        "P": 8,
+        "R": 0
+      },
+      {
+        "number": 3,
+        "F": 0,
+        "W": 36,
+        "G": 0,
+        "O": 0,
+        "P": 12,
+        "R": 0
+      },
+      {
+        "number": 4,
+        "F": 0,
+        "W": 45,
+        "G": 0,
+        "O": 0,
+        "P": 16,
+        "R": 0
+      },
+      {
+        "number": 5,
+        "F": 0,
+        "W": 54,
+        "G": 0,
+        "O": 0,
+        "P": 20,
+        "R": 0
+      },
+      {
+        "number": 6,
+        "F": 0,
+        "W": 63,
+        "G": 0,
+        "O": 0,
+        "P": 24,
+        "R": 0
+      },
+      {
+        "number": 7,
+        "F": 0,
+        "W": 72,
+        "G": 0,
+        "O": 0,
+        "P": 28,
+        "R": 0
+      },
+      {
+        "number": 8,
+        "F": 0,
+        "W": 80,
+        "G": 0,
+        "O": 0,
+        "P": 32,
+        "R": 0
+      },
+      {
+        "number": 9,
+        "F": 0,
+        "W": 89,
+        "G": 0,
+        "O": 0,
+        "P": 36,
+        "R": 0
+      },
+      {
+        "number": 10,
+        "F": 0,
+        "W": 98,
+        "G": 0,
+        "O": 0,
+        "P": 40,
+        "R": 0
+      },
+      {
+        "number": 11,
+        "F": 0,
+        "W": 107,
+        "G": 0,
+        "O": 0,
+        "P": 44,
+        "R": 0
+      },
+      {
+        "number": 12,
+        "F": 0,
+        "W": 115,
+        "G": 0,
+        "O": 0,
+        "P": 48,
+        "R": 0
+      },
+      {
+        "number": 13,
+        "F": 0,
+        "W": 124,
+        "G": 0,
+        "O": 0,
+        "P": 52,
+        "R": 0
+      },
+      {
+        "number": 14,
+        "F": 0,
+        "W": 133,
+        "G": 0,
+        "O": 0,
+        "P": 56,
+        "R": 0
+      },
+      {
+        "number": 15,
+        "F": 0,
+        "W": 141,
+        "G": 0,
+        "O": 0,
+        "P": 60,
+        "R": 0
+      },
+      {
+        "number": 16,
+        "F": 0,
+        "W": 150,
+        "G": 0,
+        "O": 0,
+        "P": 64,
+        "R": 0
+      },
+      {
+        "number": 17,
+        "F": 0,
+        "W": 158,
+        "G": 0,
+        "O": 0,
+        "P": 68,
+        "R": 0
+      },
+      {
+        "number": 18,
+        "F": 0,
+        "W": 167,
+        "G": 0,
+        "O": 0,
+        "P": 72,
+        "R": 0
+      },
+      {
+        "number": 19,
+        "F": 0,
+        "W": 176,
+        "G": 0,
+        "O": 0,
+        "P": 76,
+        "R": 0
+      },
+      {
+        "number": 20,
+        "F": 0,
+        "W": 184,
+        "G": 0,
+        "O": 0,
+        "P": 80,
+        "R": 0
+      }
+    ]
+  },
+  "spectrumConfig": [
+    {
+      "name": "AT1",
+      "number": "1",
+      "between": "1-20",
+      "maxslider": "10",
+      "gearIndex": 6,
+      "gearColor": "",
+      "gearName": "档位",
+      "gearEName": "gear",
+      "fanIndex": 4,
+      "fanColor": "",
+      "fanName": "风扇",
+      "fanEName": "fan",
+      "custom1_text": "R",
+      "custom2_text": "W",
+      "custom3_text": "G",
+      "custom4_text": "B",
+      "custom5_text": "",
+      "defaultChannel1": 0,
+      "defaultChannel2": 170,
+      "defaultChannel3": 0,
+      "defaultChannel4": 0,
+      "defaultChannel5": 0,
+      "atList": [
+        {
+          "sliderIndex": "1",
+          "serial": "1",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "2",
+          "serial": "2",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "3",
+          "serial": "3",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "4",
+          "serial": "4",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "5",
+          "serial": "5",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "6",
+          "serial": "6",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "7",
+          "serial": "7",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "8",
+          "serial": "8",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "9",
+          "serial": "9",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "10",
+          "serial": "10",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "11",
+          "serial": "11",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "12",
+          "serial": "12",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "13",
+          "serial": "13",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "14",
+          "serial": "14",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "15",
+          "serial": "15",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "16",
+          "serial": "16",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "17",
+          "serial": "17",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "18",
+          "serial": "18",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "19",
+          "serial": "19",
+          "F": "20"
+        },
+        {
+          "sliderIndex": "20",
+          "serial": "20",
+          "F": "20"
+        }
+      ]
+    }
+  ],
+  "opentankmodelConfig": [
+    {
+      "name": "开缸预设",
+      "type": "1",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.3",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.4",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.4",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "4",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "5",
+          "all_pow": "0.4",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.3",
+          "color_model": "1",
+          "time": "1"
+        }
+      ]
+    },
+    {
+      "name": "红草预设",
+      "type": "2",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.8",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "2"
+        },
+        {
+          "week": "4",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "5",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.8",
+          "color_model": "1",
+          "time": "2"
+        }
+      ]
+    },
+    {
+      "name": "综合预设",
+      "type": "3",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.9",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "4",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "2"
+        },
+        {
+          "week": "5",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.8",
+          "color_model": "1",
+          "time": "1"
+        }
+      ]
+    },
+    {
+      "name": "爆藻预设",
+      "type": "4",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "14"
+        }
+      ]
+    },
+    {
+      "name": "绿草预设",
+      "type": "5",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "0.5"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1.5"
+        },
+        {
+          "week": "4",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "5",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        }
+      ]
+    },
+    {
+      "name": "椒榕预设",
+      "type": "6",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "0.5"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1.5"
+        },
+        {
+          "week": "4",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "5",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        }
+      ]
+    }
+  ]
+}

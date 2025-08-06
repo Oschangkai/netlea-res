@@ -1,0 +1,308 @@
+{
+  "hengliu": {
+    "cname": "恒流",
+    "ename": "hengliu",
+    "model": 1,
+    "gearIndex": 10,
+    "gearColor": "#FFA500",
+    "list": [
+      {
+        "index": 0,
+        "gear": 0,
+        "power": 0
+      },
+      {
+        "index": 1,
+        "gear": 1,
+        "power": 8.5
+      },
+      {
+        "index": 2,
+        "gear": 2,
+        "power": 9.9
+      },
+      {
+        "index": 3,
+        "gear": 3,
+        "power": 11.3
+      },
+      {
+        "index": 4,
+        "gear": 4,
+        "power": 12.7
+      },
+      {
+        "index": 5,
+        "gear": 5,
+        "power": 14.1
+      },
+      {
+        "index": 6,
+        "gear": 6,
+        "power": 15.5
+      },
+      {
+        "index": 7,
+        "gear": 7,
+        "power": 16.9
+      },
+      {
+        "index": 8,
+        "gear": 8,
+        "power": 18.3
+      },
+      {
+        "index": 9,
+        "gear": 9,
+        "power": 19.7
+      },
+      {
+        "index": 10,
+        "gear": 10,
+        "power": 21.1
+      },
+      {
+        "index": 11,
+        "gear": 11,
+        "power": 22.4
+      },
+      {
+        "index": 12,
+        "gear": 12,
+        "power": 23.8
+      },
+      {
+        "index": 13,
+        "gear": 13,
+        "power": 25.2
+      },
+      {
+        "index": 14,
+        "gear": 14,
+        "power": 26.6
+      },
+      {
+        "index": 15,
+        "gear": 15,
+        "power": 28
+      },
+      {
+        "index": 16,
+        "gear": 16,
+        "power": 29.4
+      },
+      {
+        "index": 17,
+        "gear": 17,
+        "power": 30.8
+      },
+      {
+        "index": 18,
+        "gear": 18,
+        "power": 32.2
+      },
+      {
+        "index": 19,
+        "gear": 19,
+        "power": 33.6
+      },
+      {
+        "index": 20,
+        "gear": 20,
+        "power": 35
+      }
+    ]
+  },
+  "zaolang": {
+    "cname": "造浪",
+    "ename": "zaolang",
+    "model": 2,
+    "gearIndex": 10,
+    "gearColor": "#FFA500",
+    "levelIndex": 10,
+    "levelColor": "#FFA500",
+    "list": [
+      {
+        "index": 0,
+        "gear": 0,
+        "level": 0,
+        "power": 0
+      },
+      {
+        "index": 1,
+        "gear": 1,
+        "level": 1,
+        "power": 8.5
+      },
+      {
+        "index": 2,
+        "gear": 2,
+        "level": 2,
+        "power": 9.9
+      },
+      {
+        "index": 3,
+        "gear": 3,
+        "level": 3,
+        "power": 11.3
+      },
+      {
+        "index": 4,
+        "gear": 4,
+        "level": 4,
+        "power": 12.7
+      },
+      {
+        "index": 5,
+        "gear": 5,
+        "level": 5,
+        "power": 14.1
+      },
+      {
+        "index": 6,
+        "gear": 6,
+        "level": 6,
+        "power": 15.5
+      },
+      {
+        "index": 7,
+        "gear": 7,
+        "level": 7,
+        "power": 16.9
+      },
+      {
+        "index": 8,
+        "gear": 8,
+        "level": 8,
+        "power": 18.3
+      },
+      {
+        "index": 9,
+        "gear": 9,
+        "level": 9,
+        "power": 19.7
+      },
+      {
+        "index": 10,
+        "gear": 10,
+        "level": 10,
+        "power": 21.1
+      },
+      {
+        "index": 11,
+        "gear": 11,
+        "level": 11,
+        "power": 22.4
+      },
+      {
+        "index": 12,
+        "gear": 12,
+        "level": 12,
+        "power": 23.8
+      },
+      {
+        "index": 13,
+        "gear": 13,
+        "level": 13,
+        "power": 25.2
+      },
+      {
+        "index": 14,
+        "gear": 14,
+        "level": 14,
+        "power": 26.6
+      },
+      {
+        "index": 15,
+        "gear": 15,
+        "level": 15,
+        "power": 28
+      },
+      {
+        "index": 16,
+        "gear": 16,
+        "level": 16,
+        "power": 29.4
+      },
+      {
+        "index": 17,
+        "gear": 17,
+        "level": 17,
+        "power": 30.8
+      },
+      {
+        "index": 18,
+        "gear": 18,
+        "level": 18,
+        "power": 32.2
+      },
+      {
+        "index": 19,
+        "gear": 19,
+        "level": 19,
+        "power": 33.6
+      },
+      {
+        "index": 20,
+        "gear": 20,
+        "level": 20,
+        "power": 35
+      }
+    ]
+  },
+  "weiyu": {
+    "cname": "喂鱼",
+    "ename": "weiyu",
+    "model": 3,
+    "times": [
+      {
+        "index": 1,
+        "time": 5
+      },
+      {
+        "index": 2,
+        "time": 10
+      },
+      {
+        "index": 3,
+        "time": 15
+      },
+      {
+        "index": 4,
+        "time": 20
+      },
+      {
+        "index": 5,
+        "time": 25
+      },
+      {
+        "index": 6,
+        "time": 30
+      },
+      {
+        "index": 7,
+        "time": 35
+      },
+      {
+        "index": 8,
+        "time": 40
+      },
+      {
+        "index": 9,
+        "time": 45
+      },
+      {
+        "index": 10,
+        "time": 50
+      },
+      {
+        "index": 11,
+        "time": 55
+      },
+      {
+        "index": 12,
+        "time": 60
+      }
+    ]
+  }
+}

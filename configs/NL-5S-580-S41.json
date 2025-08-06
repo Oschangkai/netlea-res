@@ -1,0 +1,3681 @@
+{
+  "zhudengConfig": [
+    {
+      "name": "AT5",
+      "fansMin": 0,
+      "fansMax": 10,
+      "tabList": [
+        {
+          "tabName": "绿草",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 13,
+              "R": 21,
+              "G": 38,
+              "B": 19,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 18,
+              "R": 31,
+              "G": 56,
+              "B": 26,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 26,
+              "R": 36,
+              "G": 75,
+              "B": 33,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 35,
+              "R": 42,
+              "G": 97,
+              "B": 36,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 41,
+              "R": 50,
+              "G": 113,
+              "B": 44,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 46,
+              "R": 58,
+              "G": 130,
+              "B": 47,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 54,
+              "R": 64,
+              "G": 148,
+              "B": 52,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 62,
+              "R": 68,
+              "G": 166,
+              "B": 56,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 70,
+              "R": 74,
+              "G": 181,
+              "B": 59,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 80,
+              "R": 84,
+              "G": 194,
+              "B": 64,
+              "P": 92
+            }
+          ]
+        },
+        {
+          "tabName": "正白",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 21,
+              "R": 26,
+              "G": 25,
+              "B": 19,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 27,
+              "R": 37,
+              "G": 37,
+              "B": 26,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 34,
+              "R": 52,
+              "G": 51,
+              "B": 34,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 41,
+              "R": 63,
+              "G": 65,
+              "B": 42,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 49,
+              "R": 73,
+              "G": 77,
+              "B": 47,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 59,
+              "R": 81,
+              "G": 90,
+              "B": 54,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 65,
+              "R": 97,
+              "G": 104,
+              "B": 58,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 79,
+              "R": 105,
+              "G": 113,
+              "B": 63,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 88,
+              "R": 113,
+              "G": 125,
+              "B": 67,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 100,
+              "R": 122,
+              "G": 135,
+              "B": 73,
+              "P": 92
+            }
+          ]
+        },
+        {
+          "tabName": "红草",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 21,
+              "R": 32,
+              "G": 19,
+              "B": 19,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 29,
+              "R": 48,
+              "G": 29,
+              "B": 27,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 36,
+              "R": 63,
+              "G": 39,
+              "B": 34,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 43,
+              "R": 82,
+              "G": 50,
+              "B": 43,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 50,
+              "R": 99,
+              "G": 57,
+              "B": 47,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 56,
+              "R": 112,
+              "G": 67,
+              "B": 54,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 63,
+              "R": 127,
+              "G": 79,
+              "B": 62,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 71,
+              "R": 147,
+              "G": 87,
+              "B": 66,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 77,
+              "R": 156,
+              "G": 95,
+              "B": 71,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 92,
+              "R": 166,
+              "G": 105,
+              "B": 80,
+              "P": 92
+            }
+          ]
+        },
+        {
+          "tabName": "辣椒榕",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 15,
+              "R": 28,
+              "G": 15,
+              "B": 31,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 20,
+              "R": 41,
+              "G": 22,
+              "B": 46,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 24,
+              "R": 59,
+              "G": 29,
+              "B": 62,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 29,
+              "R": 74,
+              "G": 36,
+              "B": 75,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 35,
+              "R": 86,
+              "G": 43,
+              "B": 88,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 40,
+              "R": 100,
+              "G": 47,
+              "B": 101,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 46,
+              "R": 115,
+              "G": 54,
+              "B": 115,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 52,
+              "R": 127,
+              "G": 59,
+              "B": 128,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 58,
+              "R": 139,
+              "G": 65,
+              "B": 139,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 64,
+              "R": 151,
+              "G": 69,
+              "B": 150,
+              "P": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RGB",
+      "fansMin": 0,
+      "fansMax": 10,
+      "tabList": [
+        {
+          "tabName": "清爽",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 0,
+              "R": 25,
+              "G": 41,
+              "B": 24,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 0,
+              "R": 33,
+              "G": 58,
+              "B": 32,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 0,
+              "R": 47,
+              "G": 81,
+              "B": 41,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 0,
+              "R": 57,
+              "G": 103,
+              "B": 48,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 0,
+              "R": 66,
+              "G": 122,
+              "B": 55,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 0,
+              "R": 75,
+              "G": 141,
+              "B": 62,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 0,
+              "R": 86,
+              "G": 163,
+              "B": 68,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 0,
+              "R": 94,
+              "G": 184,
+              "B": 71,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 0,
+              "R": 103,
+              "G": 199,
+              "B": 79,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 0,
+              "R": 113,
+              "G": 218,
+              "B": 86,
+              "P": 92
+            }
+          ]
+        },
+        {
+          "tabName": "正白",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 0,
+              "R": 32,
+              "G": 33,
+              "B": 22,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 0,
+              "R": 47,
+              "G": 51,
+              "B": 31,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 0,
+              "R": 62,
+              "G": 70,
+              "B": 38,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 0,
+              "R": 75,
+              "G": 88,
+              "B": 46,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 0,
+              "R": 90,
+              "G": 105,
+              "B": 54,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 0,
+              "R": 102,
+              "G": 121,
+              "B": 58,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 0,
+              "R": 115,
+              "G": 140,
+              "B": 67,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 0,
+              "R": 125,
+              "G": 157,
+              "B": 73,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 0,
+              "R": 136,
+              "G": 173,
+              "B": 79,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 0,
+              "R": 147,
+              "G": 190,
+              "B": 86,
+              "P": 92
+            }
+          ]
+        },
+        {
+          "tabName": "淡雅",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 0,
+              "R": 33,
+              "G": 32,
+              "B": 24,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 0,
+              "R": 49,
+              "G": 48,
+              "B": 33,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 0,
+              "R": 64,
+              "G": 64,
+              "B": 42,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 0,
+              "R": 82,
+              "G": 81,
+              "B": 51,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 0,
+              "R": 98,
+              "G": 96,
+              "B": 57,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 0,
+              "R": 112,
+              "G": 109,
+              "B": 65,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 0,
+              "R": 126,
+              "G": 130,
+              "B": 72,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 0,
+              "R": 137,
+              "G": 145,
+              "B": 79,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 0,
+              "R": 150,
+              "G": 161,
+              "B": 85,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 0,
+              "R": 162,
+              "G": 176,
+              "B": 92,
+              "P": 92
+            }
+          ]
+        },
+        {
+          "tabName": "美艳",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 0,
+              "R": 41,
+              "G": 27,
+              "B": 24,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 0,
+              "R": 56,
+              "G": 42,
+              "B": 33,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 0,
+              "R": 76,
+              "G": 56,
+              "B": 42,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 0,
+              "R": 95,
+              "G": 71,
+              "B": 50,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 0,
+              "R": 112,
+              "G": 84,
+              "B": 57,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 0,
+              "R": 128,
+              "G": 97,
+              "B": 64,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 0,
+              "R": 144,
+              "G": 113,
+              "B": 73,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 0,
+              "R": 159,
+              "G": 126,
+              "B": 78,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 0,
+              "R": 173,
+              "G": 141,
+              "B": 86,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 0,
+              "R": 186,
+              "G": 157,
+              "B": 94,
+              "P": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "自然",
+      "fansMin": 0,
+      "fansMax": 10,
+      "tabList": [
+        {
+          "tabName": "自然",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 25,
+              "R": 19,
+              "G": 31,
+              "B": 14,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 36,
+              "R": 29,
+              "G": 45,
+              "B": 18,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 51,
+              "R": 39,
+              "G": 58,
+              "B": 23,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 65,
+              "R": 48,
+              "G": 73,
+              "B": 26,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 77,
+              "R": 55,
+              "G": 86,
+              "B": 31,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 88,
+              "R": 65,
+              "G": 97,
+              "B": 34,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 102,
+              "R": 73,
+              "G": 113,
+              "B": 39,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 113,
+              "R": 81,
+              "G": 123,
+              "B": 41,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 124,
+              "R": 90,
+              "G": 134,
+              "B": 44,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 138,
+              "R": 98,
+              "G": 147,
+              "B": 46,
+              "P": 92
+            }
+          ]
+        },
+        {
+          "tabName": "蓝调",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 2,
+              "R": 2,
+              "G": 17,
+              "B": 26,
+              "P": 9
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 5,
+              "R": 4,
+              "G": 30,
+              "B": 45,
+              "P": 17
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 8,
+              "R": 7,
+              "G": 46,
+              "B": 66,
+              "P": 26
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 11,
+              "R": 7,
+              "G": 58,
+              "B": 83,
+              "P": 34
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 17,
+              "R": 7,
+              "G": 74,
+              "B": 104,
+              "P": 43
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 20,
+              "R": 7,
+              "G": 84,
+              "B": 121,
+              "P": 51
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 25,
+              "R": 7,
+              "G": 100,
+              "B": 138,
+              "P": 60
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 28,
+              "R": 9,
+              "G": 111,
+              "B": 152,
+              "P": 68
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 28,
+              "R": 13,
+              "G": 126,
+              "B": 168,
+              "P": 77
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 28,
+              "R": 13,
+              "G": 141,
+              "B": 184,
+              "P": 85
+            }
+          ]
+        },
+        {
+          "tabName": "夕阳",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 24,
+              "R": 42,
+              "G": 22,
+              "B": 6,
+              "P": 17
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 33,
+              "R": 62,
+              "G": 32,
+              "B": 8,
+              "P": 25
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 44,
+              "R": 84,
+              "G": 43,
+              "B": 9,
+              "P": 34
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 57,
+              "R": 104,
+              "G": 51,
+              "B": 9,
+              "P": 43
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 67,
+              "R": 124,
+              "G": 61,
+              "B": 10,
+              "P": 51
+            },
+            {
+              "number": 6,
+              "F": 0,
+              "W": 79,
+              "R": 141,
+              "G": 69,
+              "B": 10,
+              "P": 59
+            },
+            {
+              "number": 7,
+              "F": 0,
+              "W": 92,
+              "R": 160,
+              "G": 77,
+              "B": 10,
+              "P": 68
+            },
+            {
+              "number": 8,
+              "F": 0,
+              "W": 104,
+              "R": 176,
+              "G": 84,
+              "B": 10,
+              "P": 76
+            },
+            {
+              "number": 9,
+              "F": 0,
+              "W": 116,
+              "R": 193,
+              "G": 91,
+              "B": 10,
+              "P": 84
+            },
+            {
+              "number": 10,
+              "F": 0,
+              "W": 130,
+              "R": 211,
+              "G": 99,
+              "B": 10,
+              "P": 92
+            }
+          ]
+        },
+        {
+          "tabName": "月光",
+          "spectrums": [
+            {
+              "number": 1,
+              "F": 0,
+              "W": 2,
+              "R": 0,
+              "G": 0,
+              "B": 2,
+              "P": 1
+            },
+            {
+              "number": 2,
+              "F": 0,
+              "W": 3,
+              "R": 0,
+              "G": 0,
+              "B": 3,
+              "P": 1
+            },
+            {
+              "number": 3,
+              "F": 0,
+              "W": 4,
+              "R": 0,
+              "G": 0,
+              "B": 4,
+              "P": 1
+            },
+            {
+              "number": 4,
+              "F": 0,
+              "W": 5,
+              "R": 0,
+              "G": 0,
+              "B": 5,
+              "P": 2
+            },
+            {
+              "number": 5,
+              "F": 0,
+              "W": 6,
+              "R": 0,
+              "G": 0,
+              "B": 6,
+              "P": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mcustomConfig": [
+    {
+      "tabName": "自定义",
+      "custom": {
+        "custom1Max": 110,
+        "custom2Max": 110,
+        "custom3Max": 110,
+        "custom4Max": 111,
+        "custom5Max": 10,
+        "customPowMax": 92,
+        "limitPow": 20,
+        "custom1_text": "R",
+        "custom2_text": "W",
+        "custom3_text": "G",
+        "custom4_text": "B",
+        "custom5_text": "F",
+        "custom1_name": "R",
+        "custom2_name": "W",
+        "custom3_name": "G",
+        "custom4_name": "B",
+        "custom5_name": "F",
+        "custom1_index": "1",
+        "custom2_index": "2",
+        "custom3_index": "3",
+        "custom4_index": "4",
+        "custom5_index": "5",
+        "custom1_name_ename": "R",
+        "custom2_name_ename": "W",
+        "custom3_name_ename": "G",
+        "custom4_name_ename": "B",
+        "custom5_name_ename": "F",
+        "custom1_color": "#FF0000",
+        "custom2_color": "#F2E6F2",
+        "custom3_color": "#00FF00",
+        "custom4_color": "#0000FF",
+        "custom5_color": "#FFA500",
+        "custom1_channel": "CHANNEL3",
+        "custom2_channel": "CHANNEL4",
+        "custom3_channel": "CHANNEL2",
+        "custom4_channel": "CHANNEL1",
+        "custom5_channel": "CHANNEL5",
+        "customdefaultSlider1": 60,
+        "customdefaultSlider2": 51,
+        "customdefaultSlider3": 45,
+        "customdefaultSlider4": 39,
+        "customdefaultSlider5": 6,
+        "defaultChannel1": 130,
+        "defaultChannel2": 98,
+        "defaultChannel3": 94,
+        "defaultChannel4": 74,
+        "defaultChannel5": 107,
+        "lightDefaultSlider1": 9,
+        "lightDefaultSlider2": 109,
+        "lightDefaultSlider3": 209,
+        "lightDefaultSlider4": 309
+      },
+      "cSpectrums": {
+        "c1": {
+          "name": "B",
+          "links": [
+            {
+              "number": 0,
+              "proportion": 0,
+              "value": 0
+            },
+            {
+              "number": 1,
+              "proportion": 2,
+              "value": 1
+            },
+            {
+              "number": 2,
+              "proportion": 3,
+              "value": 1
+            },
+            {
+              "number": 3,
+              "proportion": 4,
+              "value": 1
+            },
+            {
+              "number": 4,
+              "proportion": 5,
+              "value": 1
+            },
+            {
+              "number": 5,
+              "proportion": 6,
+              "value": 2
+            },
+            {
+              "number": 6,
+              "proportion": 7,
+              "value": 2
+            },
+            {
+              "number": 7,
+              "proportion": 8,
+              "value": 2
+            },
+            {
+              "number": 8,
+              "proportion": 9,
+              "value": 3
+            },
+            {
+              "number": 9,
+              "proportion": 10,
+              "value": 3
+            },
+            {
+              "number": 10,
+              "proportion": 11,
+              "value": 3
+            },
+            {
+              "number": 11,
+              "proportion": 12,
+              "value": 3
+            },
+            {
+              "number": 12,
+              "proportion": 13,
+              "value": 3
+            },
+            {
+              "number": 13,
+              "proportion": 14,
+              "value": 4
+            },
+            {
+              "number": 14,
+              "proportion": 15,
+              "value": 4
+            },
+            {
+              "number": 15,
+              "proportion": 16,
+              "value": 4
+            },
+            {
+              "number": 16,
+              "proportion": 17,
+              "value": 5
+            },
+            {
+              "number": 17,
+              "proportion": 18,
+              "value": 5
+            },
+            {
+              "number": 18,
+              "proportion": 18,
+              "value": 5
+            },
+            {
+              "number": 19,
+              "proportion": 19,
+              "value": 5
+            },
+            {
+              "number": 20,
+              "proportion": 20,
+              "value": 5
+            },
+            {
+              "number": 21,
+              "proportion": 21,
+              "value": 5
+            },
+            {
+              "number": 22,
+              "proportion": 22,
+              "value": 6
+            },
+            {
+              "number": 23,
+              "proportion": 23,
+              "value": 6
+            },
+            {
+              "number": 24,
+              "proportion": 24,
+              "value": 6
+            },
+            {
+              "number": 25,
+              "proportion": 25,
+              "value": 6
+            },
+            {
+              "number": 26,
+              "proportion": 26,
+              "value": 6
+            },
+            {
+              "number": 27,
+              "proportion": 27,
+              "value": 7
+            },
+            {
+              "number": 28,
+              "proportion": 28,
+              "value": 7
+            },
+            {
+              "number": 29,
+              "proportion": 29,
+              "value": 7
+            },
+            {
+              "number": 30,
+              "proportion": 30,
+              "value": 7
+            },
+            {
+              "number": 31,
+              "proportion": 31,
+              "value": 8
+            },
+            {
+              "number": 32,
+              "proportion": 32,
+              "value": 8
+            },
+            {
+              "number": 33,
+              "proportion": 33,
+              "value": 8
+            },
+            {
+              "number": 34,
+              "proportion": 33,
+              "value": 8
+            },
+            {
+              "number": 35,
+              "proportion": 34,
+              "value": 9
+            },
+            {
+              "number": 36,
+              "proportion": 35,
+              "value": 9
+            },
+            {
+              "number": 37,
+              "proportion": 36,
+              "value": 9
+            },
+            {
+              "number": 38,
+              "proportion": 37,
+              "value": 9
+            },
+            {
+              "number": 39,
+              "proportion": 38,
+              "value": 9
+            },
+            {
+              "number": 40,
+              "proportion": 39,
+              "value": 10
+            },
+            {
+              "number": 41,
+              "proportion": 40,
+              "value": 10
+            },
+            {
+              "number": 42,
+              "proportion": 41,
+              "value": 10
+            },
+            {
+              "number": 43,
+              "proportion": 42,
+              "value": 10
+            },
+            {
+              "number": 44,
+              "proportion": 43,
+              "value": 11
+            },
+            {
+              "number": 45,
+              "proportion": 44,
+              "value": 11
+            },
+            {
+              "number": 46,
+              "proportion": 45,
+              "value": 11
+            },
+            {
+              "number": 47,
+              "proportion": 46,
+              "value": 11
+            },
+            {
+              "number": 48,
+              "proportion": 47,
+              "value": 12
+            },
+            {
+              "number": 49,
+              "proportion": 48,
+              "value": 12
+            },
+            {
+              "number": 50,
+              "proportion": 48,
+              "value": 12
+            },
+            {
+              "number": 51,
+              "proportion": 49,
+              "value": 12
+            },
+            {
+              "number": 52,
+              "proportion": 50,
+              "value": 12
+            },
+            {
+              "number": 53,
+              "proportion": 51,
+              "value": 12
+            },
+            {
+              "number": 54,
+              "proportion": 52,
+              "value": 13
+            },
+            {
+              "number": 55,
+              "proportion": 53,
+              "value": 13
+            },
+            {
+              "number": 56,
+              "proportion": 54,
+              "value": 13
+            },
+            {
+              "number": 57,
+              "proportion": 55,
+              "value": 13
+            },
+            {
+              "number": 58,
+              "proportion": 56,
+              "value": 14
+            },
+            {
+              "number": 59,
+              "proportion": 57,
+              "value": 14
+            },
+            {
+              "number": 60,
+              "proportion": 58,
+              "value": 14
+            },
+            {
+              "number": 61,
+              "proportion": 59,
+              "value": 14
+            },
+            {
+              "number": 62,
+              "proportion": 60,
+              "value": 15
+            },
+            {
+              "number": 63,
+              "proportion": 61,
+              "value": 15
+            },
+            {
+              "number": 64,
+              "proportion": 62,
+              "value": 15
+            },
+            {
+              "number": 65,
+              "proportion": 63,
+              "value": 15
+            },
+            {
+              "number": 66,
+              "proportion": 63,
+              "value": 15
+            },
+            {
+              "number": 67,
+              "proportion": 64,
+              "value": 16
+            },
+            {
+              "number": 68,
+              "proportion": 65,
+              "value": 16
+            },
+            {
+              "number": 69,
+              "proportion": 66,
+              "value": 16
+            },
+            {
+              "number": 70,
+              "proportion": 67,
+              "value": 16
+            },
+            {
+              "number": 71,
+              "proportion": 68,
+              "value": 16
+            },
+            {
+              "number": 72,
+              "proportion": 69,
+              "value": 17
+            },
+            {
+              "number": 73,
+              "proportion": 70,
+              "value": 17
+            },
+            {
+              "number": 74,
+              "proportion": 71,
+              "value": 17
+            },
+            {
+              "number": 75,
+              "proportion": 72,
+              "value": 17
+            },
+            {
+              "number": 76,
+              "proportion": 73,
+              "value": 18
+            },
+            {
+              "number": 77,
+              "proportion": 74,
+              "value": 18
+            },
+            {
+              "number": 78,
+              "proportion": 75,
+              "value": 18
+            },
+            {
+              "number": 79,
+              "proportion": 76,
+              "value": 18
+            },
+            {
+              "number": 80,
+              "proportion": 77,
+              "value": 19
+            },
+            {
+              "number": 81,
+              "proportion": 78,
+              "value": 19
+            },
+            {
+              "number": 82,
+              "proportion": 78,
+              "value": 19
+            },
+            {
+              "number": 83,
+              "proportion": 79,
+              "value": 19
+            },
+            {
+              "number": 84,
+              "proportion": 80,
+              "value": 19
+            },
+            {
+              "number": 85,
+              "proportion": 81,
+              "value": 20
+            },
+            {
+              "number": 86,
+              "proportion": 82,
+              "value": 20
+            },
+            {
+              "number": 87,
+              "proportion": 83,
+              "value": 20
+            },
+            {
+              "number": 88,
+              "proportion": 84,
+              "value": 20
+            },
+            {
+              "number": 89,
+              "proportion": 85,
+              "value": 21
+            },
+            {
+              "number": 90,
+              "proportion": 86,
+              "value": 21
+            },
+            {
+              "number": 91,
+              "proportion": 87,
+              "value": 21
+            },
+            {
+              "number": 92,
+              "proportion": 88,
+              "value": 21
+            },
+            {
+              "number": 93,
+              "proportion": 89,
+              "value": 21
+            },
+            {
+              "number": 94,
+              "proportion": 90,
+              "value": 22
+            },
+            {
+              "number": 95,
+              "proportion": 91,
+              "value": 22
+            },
+            {
+              "number": 96,
+              "proportion": 92,
+              "value": 22
+            },
+            {
+              "number": 97,
+              "proportion": 93,
+              "value": 23
+            },
+            {
+              "number": 98,
+              "proportion": 93,
+              "value": 23
+            },
+            {
+              "number": 99,
+              "proportion": 94,
+              "value": 23
+            },
+            {
+              "number": 100,
+              "proportion": 95,
+              "value": 23
+            },
+            {
+              "number": 101,
+              "proportion": 96,
+              "value": 23
+            },
+            {
+              "number": 102,
+              "proportion": 97,
+              "value": 23
+            },
+            {
+              "number": 103,
+              "proportion": 98,
+              "value": 24
+            },
+            {
+              "number": 104,
+              "proportion": 99,
+              "value": 24
+            },
+            {
+              "number": 105,
+              "proportion": 100,
+              "value": 24
+            },
+            {
+              "number": 106,
+              "proportion": 101,
+              "value": 24
+            },
+            {
+              "number": 107,
+              "proportion": 102,
+              "value": 25
+            },
+            {
+              "number": 108,
+              "proportion": 103,
+              "value": 25
+            },
+            {
+              "number": 109,
+              "proportion": 104,
+              "value": 25
+            },
+            {
+              "number": 110,
+              "proportion": 105,
+              "value": 25
+            }
+          ]
+        },
+        "c2": {
+          "name": "G",
+          "links": [
+            {
+              "number": 0,
+              "proportion": 0,
+              "value": 0
+            },
+            {
+              "number": 1,
+              "proportion": 2,
+              "value": 1
+            },
+            {
+              "number": 2,
+              "proportion": 3,
+              "value": 1
+            },
+            {
+              "number": 3,
+              "proportion": 4,
+              "value": 1
+            },
+            {
+              "number": 4,
+              "proportion": 5,
+              "value": 2
+            },
+            {
+              "number": 5,
+              "proportion": 6,
+              "value": 2
+            },
+            {
+              "number": 6,
+              "proportion": 7,
+              "value": 2
+            },
+            {
+              "number": 7,
+              "proportion": 8,
+              "value": 3
+            },
+            {
+              "number": 8,
+              "proportion": 9,
+              "value": 3
+            },
+            {
+              "number": 9,
+              "proportion": 10,
+              "value": 3
+            },
+            {
+              "number": 10,
+              "proportion": 12,
+              "value": 3
+            },
+            {
+              "number": 11,
+              "proportion": 14,
+              "value": 4
+            },
+            {
+              "number": 12,
+              "proportion": 16,
+              "value": 4
+            },
+            {
+              "number": 13,
+              "proportion": 18,
+              "value": 4
+            },
+            {
+              "number": 14,
+              "proportion": 20,
+              "value": 5
+            },
+            {
+              "number": 15,
+              "proportion": 22,
+              "value": 5
+            },
+            {
+              "number": 16,
+              "proportion": 24,
+              "value": 6
+            },
+            {
+              "number": 17,
+              "proportion": 26,
+              "value": 6
+            },
+            {
+              "number": 18,
+              "proportion": 28,
+              "value": 6
+            },
+            {
+              "number": 19,
+              "proportion": 30,
+              "value": 7
+            },
+            {
+              "number": 20,
+              "proportion": 32,
+              "value": 7
+            },
+            {
+              "number": 21,
+              "proportion": 34,
+              "value": 8
+            },
+            {
+              "number": 22,
+              "proportion": 36,
+              "value": 8
+            },
+            {
+              "number": 23,
+              "proportion": 38,
+              "value": 9
+            },
+            {
+              "number": 24,
+              "proportion": 40,
+              "value": 9
+            },
+            {
+              "number": 25,
+              "proportion": 42,
+              "value": 10
+            },
+            {
+              "number": 26,
+              "proportion": 44,
+              "value": 10
+            },
+            {
+              "number": 27,
+              "proportion": 47,
+              "value": 11
+            },
+            {
+              "number": 28,
+              "proportion": 49,
+              "value": 11
+            },
+            {
+              "number": 29,
+              "proportion": 51,
+              "value": 11
+            },
+            {
+              "number": 30,
+              "proportion": 53,
+              "value": 12
+            },
+            {
+              "number": 31,
+              "proportion": 55,
+              "value": 13
+            },
+            {
+              "number": 32,
+              "proportion": 57,
+              "value": 13
+            },
+            {
+              "number": 33,
+              "proportion": 59,
+              "value": 13
+            },
+            {
+              "number": 34,
+              "proportion": 61,
+              "value": 14
+            },
+            {
+              "number": 35,
+              "proportion": 63,
+              "value": 14
+            },
+            {
+              "number": 36,
+              "proportion": 65,
+              "value": 15
+            },
+            {
+              "number": 37,
+              "proportion": 67,
+              "value": 15
+            },
+            {
+              "number": 38,
+              "proportion": 69,
+              "value": 15
+            },
+            {
+              "number": 39,
+              "proportion": 71,
+              "value": 16
+            },
+            {
+              "number": 40,
+              "proportion": 73,
+              "value": 16
+            },
+            {
+              "number": 41,
+              "proportion": 75,
+              "value": 17
+            },
+            {
+              "number": 42,
+              "proportion": 77,
+              "value": 17
+            },
+            {
+              "number": 43,
+              "proportion": 79,
+              "value": 18
+            },
+            {
+              "number": 44,
+              "proportion": 81,
+              "value": 18
+            },
+            {
+              "number": 45,
+              "proportion": 83,
+              "value": 18
+            },
+            {
+              "number": 46,
+              "proportion": 85,
+              "value": 19
+            },
+            {
+              "number": 47,
+              "proportion": 87,
+              "value": 20
+            },
+            {
+              "number": 48,
+              "proportion": 89,
+              "value": 20
+            },
+            {
+              "number": 49,
+              "proportion": 91,
+              "value": 20
+            },
+            {
+              "number": 50,
+              "proportion": 93,
+              "value": 21
+            },
+            {
+              "number": 51,
+              "proportion": 95,
+              "value": 21
+            },
+            {
+              "number": 52,
+              "proportion": 97,
+              "value": 22
+            },
+            {
+              "number": 53,
+              "proportion": 99,
+              "value": 22
+            },
+            {
+              "number": 54,
+              "proportion": 101,
+              "value": 23
+            },
+            {
+              "number": 55,
+              "proportion": 103,
+              "value": 23
+            },
+            {
+              "number": 56,
+              "proportion": 105,
+              "value": 23
+            },
+            {
+              "number": 57,
+              "proportion": 107,
+              "value": 24
+            },
+            {
+              "number": 58,
+              "proportion": 109,
+              "value": 24
+            },
+            {
+              "number": 59,
+              "proportion": 111,
+              "value": 25
+            },
+            {
+              "number": 60,
+              "proportion": 113,
+              "value": 25
+            },
+            {
+              "number": 61,
+              "proportion": 115,
+              "value": 26
+            },
+            {
+              "number": 62,
+              "proportion": 118,
+              "value": 26
+            },
+            {
+              "number": 63,
+              "proportion": 120,
+              "value": 27
+            },
+            {
+              "number": 64,
+              "proportion": 122,
+              "value": 27
+            },
+            {
+              "number": 65,
+              "proportion": 124,
+              "value": 28
+            },
+            {
+              "number": 66,
+              "proportion": 126,
+              "value": 28
+            },
+            {
+              "number": 67,
+              "proportion": 128,
+              "value": 29
+            },
+            {
+              "number": 68,
+              "proportion": 130,
+              "value": 29
+            },
+            {
+              "number": 69,
+              "proportion": 132,
+              "value": 30
+            },
+            {
+              "number": 70,
+              "proportion": 134,
+              "value": 30
+            },
+            {
+              "number": 71,
+              "proportion": 136,
+              "value": 31
+            },
+            {
+              "number": 72,
+              "proportion": 138,
+              "value": 31
+            },
+            {
+              "number": 73,
+              "proportion": 140,
+              "value": 32
+            },
+            {
+              "number": 74,
+              "proportion": 142,
+              "value": 32
+            },
+            {
+              "number": 75,
+              "proportion": 144,
+              "value": 33
+            },
+            {
+              "number": 76,
+              "proportion": 146,
+              "value": 33
+            },
+            {
+              "number": 77,
+              "proportion": 148,
+              "value": 34
+            },
+            {
+              "number": 78,
+              "proportion": 150,
+              "value": 34
+            },
+            {
+              "number": 79,
+              "proportion": 152,
+              "value": 35
+            },
+            {
+              "number": 80,
+              "proportion": 154,
+              "value": 36
+            },
+            {
+              "number": 81,
+              "proportion": 156,
+              "value": 36
+            },
+            {
+              "number": 82,
+              "proportion": 158,
+              "value": 36
+            },
+            {
+              "number": 83,
+              "proportion": 160,
+              "value": 37
+            },
+            {
+              "number": 84,
+              "proportion": 162,
+              "value": 38
+            },
+            {
+              "number": 85,
+              "proportion": 164,
+              "value": 38
+            },
+            {
+              "number": 86,
+              "proportion": 166,
+              "value": 38
+            },
+            {
+              "number": 87,
+              "proportion": 168,
+              "value": 39
+            },
+            {
+              "number": 88,
+              "proportion": 170,
+              "value": 40
+            },
+            {
+              "number": 89,
+              "proportion": 172,
+              "value": 40
+            },
+            {
+              "number": 90,
+              "proportion": 174,
+              "value": 40
+            },
+            {
+              "number": 91,
+              "proportion": 176,
+              "value": 41
+            },
+            {
+              "number": 92,
+              "proportion": 178,
+              "value": 42
+            },
+            {
+              "number": 93,
+              "proportion": 180,
+              "value": 42
+            },
+            {
+              "number": 94,
+              "proportion": 182,
+              "value": 43
+            },
+            {
+              "number": 95,
+              "proportion": 184,
+              "value": 43
+            },
+            {
+              "number": 96,
+              "proportion": 186,
+              "value": 44
+            },
+            {
+              "number": 97,
+              "proportion": 188,
+              "value": 44
+            },
+            {
+              "number": 98,
+              "proportion": 191,
+              "value": 45
+            },
+            {
+              "number": 99,
+              "proportion": 193,
+              "value": 46
+            },
+            {
+              "number": 100,
+              "proportion": 195,
+              "value": 46
+            },
+            {
+              "number": 101,
+              "proportion": 197,
+              "value": 47
+            },
+            {
+              "number": 102,
+              "proportion": 199,
+              "value": 47
+            },
+            {
+              "number": 103,
+              "proportion": 201,
+              "value": 48
+            },
+            {
+              "number": 104,
+              "proportion": 203,
+              "value": 48
+            },
+            {
+              "number": 105,
+              "proportion": 205,
+              "value": 49
+            },
+            {
+              "number": 106,
+              "proportion": 207,
+              "value": 49
+            },
+            {
+              "number": 107,
+              "proportion": 209,
+              "value": 50
+            },
+            {
+              "number": 108,
+              "proportion": 211,
+              "value": 50
+            },
+            {
+              "number": 109,
+              "proportion": 213,
+              "value": 51
+            },
+            {
+              "number": 110,
+              "proportion": 215,
+              "value": 51
+            }
+          ]
+        },
+        "c3": {
+          "name": "R",
+          "links": [
+            {
+              "number": 0,
+              "proportion": 0,
+              "value": 0
+            },
+            {
+              "number": 1,
+              "proportion": 2,
+              "value": 1
+            },
+            {
+              "number": 2,
+              "proportion": 3,
+              "value": 1
+            },
+            {
+              "number": 3,
+              "proportion": 4,
+              "value": 2
+            },
+            {
+              "number": 4,
+              "proportion": 5,
+              "value": 2
+            },
+            {
+              "number": 5,
+              "proportion": 6,
+              "value": 2
+            },
+            {
+              "number": 6,
+              "proportion": 7,
+              "value": 2
+            },
+            {
+              "number": 7,
+              "proportion": 8,
+              "value": 2
+            },
+            {
+              "number": 8,
+              "proportion": 9,
+              "value": 2
+            },
+            {
+              "number": 9,
+              "proportion": 10,
+              "value": 3
+            },
+            {
+              "number": 10,
+              "proportion": 12,
+              "value": 3
+            },
+            {
+              "number": 11,
+              "proportion": 14,
+              "value": 3
+            },
+            {
+              "number": 12,
+              "proportion": 16,
+              "value": 4
+            },
+            {
+              "number": 13,
+              "proportion": 18,
+              "value": 4
+            },
+            {
+              "number": 14,
+              "proportion": 20,
+              "value": 5
+            },
+            {
+              "number": 15,
+              "proportion": 23,
+              "value": 5
+            },
+            {
+              "number": 16,
+              "proportion": 25,
+              "value": 6
+            },
+            {
+              "number": 17,
+              "proportion": 27,
+              "value": 6
+            },
+            {
+              "number": 18,
+              "proportion": 29,
+              "value": 6
+            },
+            {
+              "number": 19,
+              "proportion": 31,
+              "value": 6
+            },
+            {
+              "number": 20,
+              "proportion": 33,
+              "value": 7
+            },
+            {
+              "number": 21,
+              "proportion": 35,
+              "value": 7
+            },
+            {
+              "number": 22,
+              "proportion": 37,
+              "value": 7
+            },
+            {
+              "number": 23,
+              "proportion": 39,
+              "value": 8
+            },
+            {
+              "number": 24,
+              "proportion": 41,
+              "value": 8
+            },
+            {
+              "number": 25,
+              "proportion": 44,
+              "value": 9
+            },
+            {
+              "number": 26,
+              "proportion": 46,
+              "value": 9
+            },
+            {
+              "number": 27,
+              "proportion": 48,
+              "value": 10
+            },
+            {
+              "number": 28,
+              "proportion": 50,
+              "value": 10
+            },
+            {
+              "number": 29,
+              "proportion": 52,
+              "value": 10
+            },
+            {
+              "number": 30,
+              "proportion": 54,
+              "value": 11
+            },
+            {
+              "number": 31,
+              "proportion": 56,
+              "value": 11
+            },
+            {
+              "number": 32,
+              "proportion": 58,
+              "value": 11
+            },
+            {
+              "number": 33,
+              "proportion": 60,
+              "value": 12
+            },
+            {
+              "number": 34,
+              "proportion": 62,
+              "value": 12
+            },
+            {
+              "number": 35,
+              "proportion": 64,
+              "value": 12
+            },
+            {
+              "number": 36,
+              "proportion": 67,
+              "value": 13
+            },
+            {
+              "number": 37,
+              "proportion": 69,
+              "value": 13
+            },
+            {
+              "number": 38,
+              "proportion": 71,
+              "value": 14
+            },
+            {
+              "number": 39,
+              "proportion": 73,
+              "value": 14
+            },
+            {
+              "number": 40,
+              "proportion": 75,
+              "value": 15
+            },
+            {
+              "number": 41,
+              "proportion": 77,
+              "value": 15
+            },
+            {
+              "number": 42,
+              "proportion": 79,
+              "value": 15
+            },
+            {
+              "number": 43,
+              "proportion": 81,
+              "value": 16
+            },
+            {
+              "number": 44,
+              "proportion": 83,
+              "value": 16
+            },
+            {
+              "number": 45,
+              "proportion": 85,
+              "value": 16
+            },
+            {
+              "number": 46,
+              "proportion": 87,
+              "value": 16
+            },
+            {
+              "number": 47,
+              "proportion": 90,
+              "value": 17
+            },
+            {
+              "number": 48,
+              "proportion": 92,
+              "value": 18
+            },
+            {
+              "number": 49,
+              "proportion": 94,
+              "value": 18
+            },
+            {
+              "number": 50,
+              "proportion": 96,
+              "value": 18
+            },
+            {
+              "number": 51,
+              "proportion": 98,
+              "value": 19
+            },
+            {
+              "number": 52,
+              "proportion": 100,
+              "value": 19
+            },
+            {
+              "number": 53,
+              "proportion": 102,
+              "value": 19
+            },
+            {
+              "number": 54,
+              "proportion": 104,
+              "value": 20
+            },
+            {
+              "number": 55,
+              "proportion": 106,
+              "value": 20
+            },
+            {
+              "number": 56,
+              "proportion": 108,
+              "value": 21
+            },
+            {
+              "number": 57,
+              "proportion": 111,
+              "value": 21
+            },
+            {
+              "number": 58,
+              "proportion": 113,
+              "value": 22
+            },
+            {
+              "number": 59,
+              "proportion": 115,
+              "value": 22
+            },
+            {
+              "number": 60,
+              "proportion": 117,
+              "value": 22
+            },
+            {
+              "number": 61,
+              "proportion": 119,
+              "value": 23
+            },
+            {
+              "number": 62,
+              "proportion": 121,
+              "value": 23
+            },
+            {
+              "number": 63,
+              "proportion": 123,
+              "value": 24
+            },
+            {
+              "number": 64,
+              "proportion": 125,
+              "value": 24
+            },
+            {
+              "number": 65,
+              "proportion": 127,
+              "value": 24
+            },
+            {
+              "number": 66,
+              "proportion": 129,
+              "value": 24
+            },
+            {
+              "number": 67,
+              "proportion": 131,
+              "value": 25
+            },
+            {
+              "number": 68,
+              "proportion": 134,
+              "value": 25
+            },
+            {
+              "number": 69,
+              "proportion": 136,
+              "value": 26
+            },
+            {
+              "number": 70,
+              "proportion": 138,
+              "value": 26
+            },
+            {
+              "number": 71,
+              "proportion": 140,
+              "value": 27
+            },
+            {
+              "number": 72,
+              "proportion": 142,
+              "value": 27
+            },
+            {
+              "number": 73,
+              "proportion": 144,
+              "value": 27
+            },
+            {
+              "number": 74,
+              "proportion": 146,
+              "value": 28
+            },
+            {
+              "number": 75,
+              "proportion": 148,
+              "value": 28
+            },
+            {
+              "number": 76,
+              "proportion": 150,
+              "value": 29
+            },
+            {
+              "number": 77,
+              "proportion": 152,
+              "value": 29
+            },
+            {
+              "number": 78,
+              "proportion": 155,
+              "value": 30
+            },
+            {
+              "number": 79,
+              "proportion": 157,
+              "value": 30
+            },
+            {
+              "number": 80,
+              "proportion": 159,
+              "value": 30
+            },
+            {
+              "number": 81,
+              "proportion": 161,
+              "value": 31
+            },
+            {
+              "number": 82,
+              "proportion": 163,
+              "value": 31
+            },
+            {
+              "number": 83,
+              "proportion": 165,
+              "value": 32
+            },
+            {
+              "number": 84,
+              "proportion": 167,
+              "value": 32
+            },
+            {
+              "number": 85,
+              "proportion": 169,
+              "value": 32
+            },
+            {
+              "number": 86,
+              "proportion": 171,
+              "value": 33
+            },
+            {
+              "number": 87,
+              "proportion": 173,
+              "value": 33
+            },
+            {
+              "number": 88,
+              "proportion": 175,
+              "value": 34
+            },
+            {
+              "number": 89,
+              "proportion": 178,
+              "value": 34
+            },
+            {
+              "number": 90,
+              "proportion": 180,
+              "value": 35
+            },
+            {
+              "number": 91,
+              "proportion": 182,
+              "value": 35
+            },
+            {
+              "number": 92,
+              "proportion": 184,
+              "value": 36
+            },
+            {
+              "number": 93,
+              "proportion": 186,
+              "value": 36
+            },
+            {
+              "number": 94,
+              "proportion": 188,
+              "value": 36
+            },
+            {
+              "number": 95,
+              "proportion": 190,
+              "value": 37
+            },
+            {
+              "number": 96,
+              "proportion": 192,
+              "value": 37
+            },
+            {
+              "number": 97,
+              "proportion": 194,
+              "value": 38
+            },
+            {
+              "number": 98,
+              "proportion": 196,
+              "value": 38
+            },
+            {
+              "number": 99,
+              "proportion": 198,
+              "value": 38
+            },
+            {
+              "number": 100,
+              "proportion": 201,
+              "value": 39
+            },
+            {
+              "number": 101,
+              "proportion": 203,
+              "value": 39
+            },
+            {
+              "number": 102,
+              "proportion": 205,
+              "value": 40
+            },
+            {
+              "number": 103,
+              "proportion": 207,
+              "value": 41
+            },
+            {
+              "number": 104,
+              "proportion": 209,
+              "value": 41
+            },
+            {
+              "number": 105,
+              "proportion": 211,
+              "value": 41
+            },
+            {
+              "number": 106,
+              "proportion": 213,
+              "value": 42
+            },
+            {
+              "number": 107,
+              "proportion": 215,
+              "value": 42
+            },
+            {
+              "number": 108,
+              "proportion": 217,
+              "value": 43
+            },
+            {
+              "number": 109,
+              "proportion": 219,
+              "value": 43
+            },
+            {
+              "number": 110,
+              "proportion": 222,
+              "value": 44
+            }
+          ]
+        },
+        "c4": {
+          "name": "W",
+          "links": [
+            {
+              "number": 0,
+              "proportion": 0,
+              "value": 0
+            },
+            {
+              "number": 1,
+              "proportion": 0,
+              "value": 0
+            },
+            {
+              "number": 2,
+              "proportion": 2,
+              "value": 1
+            },
+            {
+              "number": 3,
+              "proportion": 3,
+              "value": 1
+            },
+            {
+              "number": 4,
+              "proportion": 4,
+              "value": 1
+            },
+            {
+              "number": 5,
+              "proportion": 5,
+              "value": 1
+            },
+            {
+              "number": 6,
+              "proportion": 6,
+              "value": 2
+            },
+            {
+              "number": 7,
+              "proportion": 7,
+              "value": 2
+            },
+            {
+              "number": 8,
+              "proportion": 8,
+              "value": 2
+            },
+            {
+              "number": 9,
+              "proportion": 9,
+              "value": 2
+            },
+            {
+              "number": 10,
+              "proportion": 10,
+              "value": 2
+            },
+            {
+              "number": 11,
+              "proportion": 11,
+              "value": 3
+            },
+            {
+              "number": 12,
+              "proportion": 12,
+              "value": 3
+            },
+            {
+              "number": 13,
+              "proportion": 14,
+              "value": 4
+            },
+            {
+              "number": 14,
+              "proportion": 15,
+              "value": 4
+            },
+            {
+              "number": 15,
+              "proportion": 16,
+              "value": 4
+            },
+            {
+              "number": 16,
+              "proportion": 17,
+              "value": 4
+            },
+            {
+              "number": 17,
+              "proportion": 19,
+              "value": 5
+            },
+            {
+              "number": 18,
+              "proportion": 20,
+              "value": 5
+            },
+            {
+              "number": 19,
+              "proportion": 21,
+              "value": 5
+            },
+            {
+              "number": 20,
+              "proportion": 22,
+              "value": 6
+            },
+            {
+              "number": 21,
+              "proportion": 24,
+              "value": 6
+            },
+            {
+              "number": 22,
+              "proportion": 25,
+              "value": 6
+            },
+            {
+              "number": 23,
+              "proportion": 26,
+              "value": 6
+            },
+            {
+              "number": 24,
+              "proportion": 27,
+              "value": 7
+            },
+            {
+              "number": 25,
+              "proportion": 29,
+              "value": 7
+            },
+            {
+              "number": 26,
+              "proportion": 30,
+              "value": 8
+            },
+            {
+              "number": 27,
+              "proportion": 31,
+              "value": 8
+            },
+            {
+              "number": 28,
+              "proportion": 32,
+              "value": 8
+            },
+            {
+              "number": 29,
+              "proportion": 34,
+              "value": 8
+            },
+            {
+              "number": 30,
+              "proportion": 35,
+              "value": 9
+            },
+            {
+              "number": 31,
+              "proportion": 36,
+              "value": 9
+            },
+            {
+              "number": 32,
+              "proportion": 37,
+              "value": 9
+            },
+            {
+              "number": 33,
+              "proportion": 38,
+              "value": 10
+            },
+            {
+              "number": 34,
+              "proportion": 40,
+              "value": 10
+            },
+            {
+              "number": 35,
+              "proportion": 41,
+              "value": 10
+            },
+            {
+              "number": 36,
+              "proportion": 42,
+              "value": 11
+            },
+            {
+              "number": 37,
+              "proportion": 43,
+              "value": 11
+            },
+            {
+              "number": 38,
+              "proportion": 45,
+              "value": 11
+            },
+            {
+              "number": 39,
+              "proportion": 46,
+              "value": 12
+            },
+            {
+              "number": 40,
+              "proportion": 47,
+              "value": 12
+            },
+            {
+              "number": 41,
+              "proportion": 48,
+              "value": 12
+            },
+            {
+              "number": 42,
+              "proportion": 50,
+              "value": 13
+            },
+            {
+              "number": 43,
+              "proportion": 51,
+              "value": 13
+            },
+            {
+              "number": 44,
+              "proportion": 52,
+              "value": 13
+            },
+            {
+              "number": 45,
+              "proportion": 53,
+              "value": 13
+            },
+            {
+              "number": 46,
+              "proportion": 55,
+              "value": 14
+            },
+            {
+              "number": 47,
+              "proportion": 56,
+              "value": 14
+            },
+            {
+              "number": 48,
+              "proportion": 57,
+              "value": 14
+            },
+            {
+              "number": 49,
+              "proportion": 58,
+              "value": 15
+            },
+            {
+              "number": 50,
+              "proportion": 60,
+              "value": 15
+            },
+            {
+              "number": 51,
+              "proportion": 61,
+              "value": 15
+            },
+            {
+              "number": 52,
+              "proportion": 62,
+              "value": 16
+            },
+            {
+              "number": 53,
+              "proportion": 63,
+              "value": 16
+            },
+            {
+              "number": 54,
+              "proportion": 64,
+              "value": 16
+            },
+            {
+              "number": 55,
+              "proportion": 66,
+              "value": 17
+            },
+            {
+              "number": 56,
+              "proportion": 67,
+              "value": 17
+            },
+            {
+              "number": 57,
+              "proportion": 68,
+              "value": 17
+            },
+            {
+              "number": 58,
+              "proportion": 69,
+              "value": 17
+            },
+            {
+              "number": 59,
+              "proportion": 71,
+              "value": 18
+            },
+            {
+              "number": 60,
+              "proportion": 72,
+              "value": 18
+            },
+            {
+              "number": 61,
+              "proportion": 73,
+              "value": 19
+            },
+            {
+              "number": 62,
+              "proportion": 74,
+              "value": 19
+            },
+            {
+              "number": 63,
+              "proportion": 76,
+              "value": 19
+            },
+            {
+              "number": 64,
+              "proportion": 77,
+              "value": 19
+            },
+            {
+              "number": 65,
+              "proportion": 78,
+              "value": 20
+            },
+            {
+              "number": 66,
+              "proportion": 79,
+              "value": 20
+            },
+            {
+              "number": 67,
+              "proportion": 81,
+              "value": 20
+            },
+            {
+              "number": 68,
+              "proportion": 82,
+              "value": 21
+            },
+            {
+              "number": 69,
+              "proportion": 83,
+              "value": 21
+            },
+            {
+              "number": 70,
+              "proportion": 84,
+              "value": 21
+            },
+            {
+              "number": 71,
+              "proportion": 86,
+              "value": 22
+            },
+            {
+              "number": 72,
+              "proportion": 87,
+              "value": 22
+            },
+            {
+              "number": 73,
+              "proportion": 88,
+              "value": 23
+            },
+            {
+              "number": 74,
+              "proportion": 89,
+              "value": 23
+            },
+            {
+              "number": 75,
+              "proportion": 91,
+              "value": 23
+            },
+            {
+              "number": 76,
+              "proportion": 92,
+              "value": 23
+            },
+            {
+              "number": 77,
+              "proportion": 93,
+              "value": 24
+            },
+            {
+              "number": 78,
+              "proportion": 94,
+              "value": 24
+            },
+            {
+              "number": 79,
+              "proportion": 95,
+              "value": 24
+            },
+            {
+              "number": 80,
+              "proportion": 97,
+              "value": 25
+            },
+            {
+              "number": 81,
+              "proportion": 98,
+              "value": 25
+            },
+            {
+              "number": 82,
+              "proportion": 99,
+              "value": 25
+            },
+            {
+              "number": 83,
+              "proportion": 100,
+              "value": 26
+            },
+            {
+              "number": 84,
+              "proportion": 102,
+              "value": 26
+            },
+            {
+              "number": 85,
+              "proportion": 103,
+              "value": 27
+            },
+            {
+              "number": 86,
+              "proportion": 104,
+              "value": 27
+            },
+            {
+              "number": 87,
+              "proportion": 105,
+              "value": 27
+            },
+            {
+              "number": 88,
+              "proportion": 107,
+              "value": 27
+            },
+            {
+              "number": 89,
+              "proportion": 108,
+              "value": 28
+            },
+            {
+              "number": 90,
+              "proportion": 109,
+              "value": 28
+            },
+            {
+              "number": 91,
+              "proportion": 110,
+              "value": 28
+            },
+            {
+              "number": 92,
+              "proportion": 112,
+              "value": 29
+            },
+            {
+              "number": 93,
+              "proportion": 113,
+              "value": 29
+            },
+            {
+              "number": 94,
+              "proportion": 114,
+              "value": 29
+            },
+            {
+              "number": 95,
+              "proportion": 115,
+              "value": 30
+            },
+            {
+              "number": 96,
+              "proportion": 117,
+              "value": 30
+            },
+            {
+              "number": 97,
+              "proportion": 118,
+              "value": 30
+            },
+            {
+              "number": 98,
+              "proportion": 119,
+              "value": 31
+            },
+            {
+              "number": 99,
+              "proportion": 120,
+              "value": 31
+            },
+            {
+              "number": 100,
+              "proportion": 121,
+              "value": 31
+            },
+            {
+              "number": 101,
+              "proportion": 123,
+              "value": 32
+            },
+            {
+              "number": 102,
+              "proportion": 124,
+              "value": 32
+            },
+            {
+              "number": 103,
+              "proportion": 125,
+              "value": 33
+            },
+            {
+              "number": 104,
+              "proportion": 126,
+              "value": 33
+            },
+            {
+              "number": 105,
+              "proportion": 128,
+              "value": 34
+            },
+            {
+              "number": 106,
+              "proportion": 129,
+              "value": 34
+            },
+            {
+              "number": 107,
+              "proportion": 130,
+              "value": 34
+            },
+            {
+              "number": 108,
+              "proportion": 131,
+              "value": 35
+            },
+            {
+              "number": 109,
+              "proportion": 133,
+              "value": 35
+            },
+            {
+              "number": 110,
+              "proportion": 134,
+              "value": 36
+            },
+            {
+              "number": 111,
+              "proportion": 135,
+              "value": 36
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "aled1Config": [],
+  "aled2Config": [],
+  "fansConfig": [],
+  "voiceConfig": [
+    {
+      "enable": true
+    }
+  ],
+  "opentankmodelConfig": [
+    {
+      "name": "开缸预设",
+      "type": "1",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.3",
+          "color_model": "3",
+          "time": "1"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.4",
+          "color_model": "3",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.4",
+          "color_model": "2",
+          "time": "1"
+        },
+        {
+          "week": "4",
+          "all_pow": "0.5",
+          "color_model": "2",
+          "time": "1"
+        },
+        {
+          "week": "5",
+          "all_pow": "0.4",
+          "color_model": "3",
+          "time": "1"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.3",
+          "color_model": "3",
+          "time": "1"
+        }
+      ],
+      "aled1_pwm": 20,
+      "aled1_gear": 2,
+      "aled2_pwm": 20,
+      "aled2_gear": 2
+    },
+    {
+      "name": "红草预设",
+      "type": "2",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.5",
+          "color_model": "3",
+          "time": "1"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.8",
+          "color_model": "3",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "1.0",
+          "color_model": "3",
+          "time": "2"
+        },
+        {
+          "week": "4",
+          "all_pow": "1.0",
+          "color_model": "2",
+          "time": "3"
+        },
+        {
+          "week": "5",
+          "all_pow": "1.0",
+          "color_model": "2",
+          "time": "3"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.8",
+          "color_model": "2",
+          "time": "2"
+        }
+      ],
+      "aled1_pwm": 20,
+      "aled1_gear": 2,
+      "aled2_pwm": 20,
+      "aled2_gear": 2
+    },
+    {
+      "name": "综合预设",
+      "type": "3",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.5",
+          "color_model": "3",
+          "time": "1"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.7",
+          "color_model": "3",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.9",
+          "color_model": "2",
+          "time": "1"
+        },
+        {
+          "week": "4",
+          "all_pow": "1.0",
+          "color_model": "3",
+          "time": "2"
+        },
+        {
+          "week": "5",
+          "all_pow": "1.0",
+          "color_model": "2",
+          "time": "3"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.8",
+          "color_model": "2",
+          "time": "1"
+        }
+      ],
+      "aled1_pwm": 20,
+      "aled1_gear": 2,
+      "aled2_pwm": 20,
+      "aled2_gear": 2
+    },
+    {
+      "name": "爆藻预设",
+      "type": "4",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "1.0",
+          "color_model": "2",
+          "time": "14"
+        }
+      ],
+      "aled1_pwm": 20,
+      "aled1_gear": 2,
+      "aled2_pwm": 20,
+      "aled2_gear": 2
+    },
+    {
+      "name": "绿草预设",
+      "type": "5",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.7",
+          "color_model": "2",
+          "time": "0.5"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.7",
+          "color_model": "2",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1.5"
+        },
+        {
+          "week": "4",
+          "all_pow": "0.7",
+          "color_model": "2",
+          "time": "3"
+        },
+        {
+          "week": "5",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        }
+      ],
+      "aled1_pwm": 20,
+      "aled1_gear": 2,
+      "aled2_pwm": 20,
+      "aled2_gear": 2
+    },
+    {
+      "name": "椒榕预设",
+      "type": "6",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.5",
+          "color_model": "4",
+          "time": "0.5"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.5",
+          "color_model": "3",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.5",
+          "color_model": "2",
+          "time": "1.5"
+        },
+        {
+          "week": "4",
+          "all_pow": "0.5",
+          "color_model": "4",
+          "time": "3"
+        },
+        {
+          "week": "5",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        }
+      ],
+      "aled1_pwm": 20,
+      "aled1_gear": 2,
+      "aled2_pwm": 20,
+      "aled2_gear": 2
+    }
+  ]
+}

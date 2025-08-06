@@ -1,0 +1,121 @@
+{
+  "dangwei": {
+    "cname": "档位",
+    "ename": "hengliu",
+    "model": 1,
+    "gearIndex": 7,
+    "gearColor": "#FFA500",
+    "list": [
+      {
+        "index": 0,
+        "gear": 0,
+        "power": 0
+      },
+      {
+        "index": 1,
+        "gear": 1,
+        "power": 2
+      },
+      {
+        "index": 2,
+        "gear": 2,
+        "power": 3
+      },
+      {
+        "index": 3,
+        "gear": 3,
+        "power": 4
+      },
+      {
+        "index": 4,
+        "gear": 4,
+        "power": 5
+      },
+      {
+        "index": 5,
+        "gear": 5,
+        "power": 6
+      },
+      {
+        "index": 6,
+        "gear": 6,
+        "power": 8
+      },
+      {
+        "index": 7,
+        "gear": 7,
+        "power": 9
+      },
+      {
+        "index": 8,
+        "gear": 8,
+        "power": 10
+      },
+      {
+        "index": 9,
+        "gear": 9,
+        "power": 11
+      },
+      {
+        "index": 10,
+        "gear": 10,
+        "power": 12
+      }
+    ]
+  },
+  "weiyu": {
+    "cname": "喂鱼",
+    "ename": "weiyu",
+    "model": 2,
+    "times": [
+      {
+        "index": 1,
+        "time": 5
+      },
+      {
+        "index": 2,
+        "time": 10
+      },
+      {
+        "index": 3,
+        "time": 15
+      },
+      {
+        "index": 4,
+        "time": 20
+      },
+      {
+        "index": 5,
+        "time": 25
+      },
+      {
+        "index": 6,
+        "time": 30
+      },
+      {
+        "index": 7,
+        "time": 35
+      },
+      {
+        "index": 8,
+        "time": 40
+      },
+      {
+        "index": 9,
+        "time": 45
+      },
+      {
+        "index": 10,
+        "time": 50
+      },
+      {
+        "index": 11,
+        "time": 55
+      },
+      {
+        "index": 12,
+        "time": 60
+      }
+    ]
+  }
+}

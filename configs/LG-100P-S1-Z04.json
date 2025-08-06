@@ -1,0 +1,388 @@
+{
+  "allConfig": {
+    "links": [
+      {
+        "number": 1,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 9,
+        "B": 25
+      },
+      {
+        "number": 2,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 17,
+        "B": 42
+      },
+      {
+        "number": 3,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 26,
+        "B": 61
+      },
+      {
+        "number": 4,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 34,
+        "B": 77
+      },
+      {
+        "number": 5,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 43,
+        "B": 95
+      },
+      {
+        "number": 6,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 51,
+        "B": 112
+      },
+      {
+        "number": 7,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 60,
+        "B": 130
+      },
+      {
+        "number": 8,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 68,
+        "B": 146
+      },
+      {
+        "number": 9,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 77,
+        "B": 163
+      },
+      {
+        "number": 10,
+        "F": 0,
+        "W": 0,
+        "G": 0,
+        "R": 0,
+        "P": 85,
+        "B": 180
+      }
+    ]
+  },
+  "spectrumConfig": [
+    {
+      "name": "防徒上色",
+      "number": "1",
+      "between": "1-10",
+      "maxslider": "10",
+      "gearIndex": 6,
+      "gearColor": "#FFA500",
+      "gearName": "档位",
+      "gearEName": "gear",
+      "fanIndex": 4,
+      "fanColor": "#FFA500",
+      "fanName": "风扇",
+      "fanEName": "fan",
+      "custom1_text": "R",
+      "custom2_text": "W",
+      "custom3_text": "G",
+      "custom4_text": "B",
+      "custom5_text": "F",
+      "defaultChannel1": 163,
+      "defaultChannel2": 163,
+      "defaultChannel3": 163,
+      "defaultChannel4": 163,
+      "defaultChannel5": 163,
+      "atList": [
+        {
+          "sliderIndex": "1",
+          "serial": "1"
+        },
+        {
+          "sliderIndex": "2",
+          "serial": "2"
+        },
+        {
+          "sliderIndex": "3",
+          "serial": "3"
+        },
+        {
+          "sliderIndex": "4",
+          "serial": "4"
+        },
+        {
+          "sliderIndex": "5",
+          "serial": "5"
+        },
+        {
+          "sliderIndex": "6",
+          "serial": "6"
+        },
+        {
+          "sliderIndex": "7",
+          "serial": "7"
+        },
+        {
+          "sliderIndex": "8",
+          "serial": "8"
+        },
+        {
+          "sliderIndex": "9",
+          "serial": "9"
+        },
+        {
+          "sliderIndex": "10",
+          "serial": "10"
+        }
+      ]
+    }
+  ],
+  "opentankmodelConfig": [
+    {
+      "name": "开缸预设",
+      "type": "1",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.3",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.4",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.4",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "4",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "5",
+          "all_pow": "0.4",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.3",
+          "color_model": "1",
+          "time": "1"
+        }
+      ]
+    },
+    {
+      "name": "红草预设",
+      "type": "2",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.8",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "2"
+        },
+        {
+          "week": "4",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "5",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.8",
+          "color_model": "1",
+          "time": "2"
+        }
+      ]
+    },
+    {
+      "name": "综合预设",
+      "type": "3",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.9",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "4",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "2"
+        },
+        {
+          "week": "5",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.8",
+          "color_model": "1",
+          "time": "1"
+        }
+      ]
+    },
+    {
+      "name": "爆藻预设",
+      "type": "4",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "1.0",
+          "color_model": "1",
+          "time": "14"
+        }
+      ]
+    },
+    {
+      "name": "绿草预设",
+      "type": "5",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "0.5"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1.5"
+        },
+        {
+          "week": "4",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "5",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.7",
+          "color_model": "1",
+          "time": "1"
+        }
+      ]
+    },
+    {
+      "name": "椒榕预设",
+      "type": "6",
+      "datas": [
+        {
+          "week": "1",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "0.5"
+        },
+        {
+          "week": "2",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "3",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1.5"
+        },
+        {
+          "week": "4",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "3"
+        },
+        {
+          "week": "5",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        },
+        {
+          "week": "6",
+          "all_pow": "0.5",
+          "color_model": "1",
+          "time": "1"
+        }
+      ]
+    }
+  ]
+}

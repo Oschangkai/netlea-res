@@ -1,0 +1,213 @@
+{
+  "dangwei": {
+    "cname": "档位",
+    "ename": "dangwei",
+    "model": 1,
+    "gearIndex": 1,
+    "gearColor": "#FFA500",
+    "list": [
+      {
+        "index": 1,
+        "gear": 17,
+        "power": 1
+      },
+      {
+        "index": 2,
+        "gear": 21,
+        "power": 1.3
+      },
+      {
+        "index": 3,
+        "gear": 26,
+        "power": 1.7
+      },
+      {
+        "index": 4,
+        "gear": 31,
+        "power": 2.1
+      },
+      {
+        "index": 5,
+        "gear": 36,
+        "power": 2.4
+      },
+      {
+        "index": 6,
+        "gear": 41,
+        "power": 2.8
+      },
+      {
+        "index": 7,
+        "gear": 46,
+        "power": 3.2
+      },
+      {
+        "index": 8,
+        "gear": 51,
+        "power": 3.5
+      },
+      {
+        "index": 9,
+        "gear": 56,
+        "power": 3.9
+      },
+      {
+        "index": 10,
+        "gear": 61,
+        "power": 4.3
+      },
+      {
+        "index": 11,
+        "gear": 66,
+        "power": 4.7
+      },
+      {
+        "index": 12,
+        "gear": 70,
+        "power": 5
+      },
+      {
+        "index": 13,
+        "gear": 75,
+        "power": 5.4
+      },
+      {
+        "index": 14,
+        "gear": 80,
+        "power": 5.8
+      },
+      {
+        "index": 15,
+        "gear": 85,
+        "power": 6.1
+      },
+      {
+        "index": 16,
+        "gear": 90,
+        "power": 6.5
+      }
+    ]
+  },
+  "batterydangwei": null,
+  "jiangemoshi": {
+    "cname": "间隔模式",
+    "ename": "jiangemoshi",
+    "model": 2,
+    "times": [
+      {
+        "index": 1,
+        "time": 10
+      },
+      {
+        "index": 2,
+        "time": 30
+      },
+      {
+        "index": 3,
+        "time": 60
+      }
+    ]
+  },
+  "powerpercent": {
+    "cname": "功率比例",
+    "ename": "powerPercent",
+    "model": 3,
+    "percentIndex": 10,
+    "percentColor": "#FFA500",
+    "list": [
+      {
+        "index": 1,
+        "percent": 10
+      },
+      {
+        "index": 2,
+        "percent": 16
+      },
+      {
+        "index": 3,
+        "percent": 22
+      },
+      {
+        "index": 4,
+        "percent": 28
+      },
+      {
+        "index": 5,
+        "percent": 34
+      },
+      {
+        "index": 6,
+        "percent": 40
+      },
+      {
+        "index": 7,
+        "percent": 46
+      },
+      {
+        "index": 8,
+        "percent": 52
+      },
+      {
+        "index": 9,
+        "percent": 58
+      },
+      {
+        "index": 10,
+        "percent": 64
+      },
+      {
+        "index": 11,
+        "percent": 70
+      },
+      {
+        "index": 12,
+        "percent": 76
+      },
+      {
+        "index": 13,
+        "percent": 82
+      },
+      {
+        "index": 14,
+        "percent": 88
+      },
+      {
+        "index": 15,
+        "percent": 94
+      },
+      {
+        "index": 16,
+        "percent": 100
+      }
+    ]
+  },
+  "pilotlamp": {
+    "cname": "指示灯",
+    "ename": "pilotLamp",
+    "model": 2,
+    "lampIndex": 5,
+    "lampColor": "#FFA500",
+    "list": [
+      {
+        "index": 1,
+        "lamp": 10
+      },
+      {
+        "index": 2,
+        "lamp": 30
+      },
+      {
+        "index": 3,
+        "lamp": 50
+      },
+      {
+        "index": 4,
+        "lamp": 80
+      },
+      {
+        "index": 5,
+        "lamp": 100
+      }
+    ]
+  }
+}
